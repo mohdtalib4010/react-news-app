@@ -1,0 +1,20 @@
+Body{
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #dfe6e9;
+}
+
+.header{
+  text-align: center;
+  font-weight: bold;
+}
+
+.card {
+    max-width: 500px ;
+    border-radius: 25px;
+    margin: 20px auto;
+}
+
+
+  
